@@ -3,6 +3,8 @@ package group.Hello;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+
+//add cmt to Hello 3
 public class Hello {
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
